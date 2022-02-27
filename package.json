@@ -1,0 +1,7 @@
+{
+    "name": "sort-my-pr",
+    "version": "0.1-alpha",
+    "devDependencies": {
+        "typescript": "^4.5.5"
+    }
+}
